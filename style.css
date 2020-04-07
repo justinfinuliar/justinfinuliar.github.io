@@ -1,10 +1,7 @@
-﻿body {
-    html
-
-{
+﻿html {
     background-color: #124559;
     background-repeat: no-repeat;
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/johnoliver2.jpg);
+    background-image: url(https://drive.google.com/uc?id=1DNSCSkt39Sx7pavySOjAxgM4jDW-MPxF);
     background-size: 100vw;
     background-position: center 6vw;
 }
@@ -82,5 +79,4 @@ div#row2b {
     height: 30vw;
     background-color: #ff0;
     margin-left: -1vw;
-}
 }
